@@ -5,6 +5,7 @@ Open Termux
 run python2
 
 Command--
+
 $pkg install python2
 
 $pkg install git
