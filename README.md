@@ -6,7 +6,7 @@ $pkg install python2
 
 $pkg install git
 
-$git clone https://github.com/kaitospiker/K41TOSP1K3R.git
+$git clone https://github.com/kaitospiker/viruskai.git
 
 $cd K41TOSP1K3R
 
